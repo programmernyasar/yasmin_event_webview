@@ -1,3 +1,3 @@
 # Yasmin Event Apps Webview
 
-Webview Apps for add event room on hotel 
+Webview Apps for add event room in hotel 
